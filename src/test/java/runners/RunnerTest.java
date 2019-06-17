@@ -20,17 +20,16 @@ import java.io.IOException;
         plugin = {"pretty", "html:target/cucumber", "json:target/cucumber.json",
                 "com.cucumber.listener.ExtentCucumberFormatter:output/reports/report.html"},
         monochrome = true,
-        tags = {}
+        tags = {"@regression"}
 
 )
 
 public class RunnerTest extends AbstractTestNGCucumberTests {
     @AfterTest
     public static void writeExtentReport() throws IOException {
-            System.out.println("*************************@AfterClass run successfully*************************");
-            Reporter.loadXMLConfig(System.getProperty("user.dir") + "config/extent-config.xml");
-            BasePage.copyLatestExtentReport();
+        System.out.println("*************************@AfterClass run successfully*************************");
+        Reporter.loadXMLConfig(System.getProperty("user.dir") + "config/extent-config.xml");
+        BasePage.copyLatestExtentReport();
 
     }
 }
-

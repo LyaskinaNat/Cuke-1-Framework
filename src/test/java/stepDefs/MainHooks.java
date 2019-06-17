@@ -12,7 +12,7 @@ import utils.DriverFactory;
 import java.io.File;
 
 
-public class mainHooks extends DriverFactory {
+public class MainHooks extends DriverFactory {
 
     @Before
 

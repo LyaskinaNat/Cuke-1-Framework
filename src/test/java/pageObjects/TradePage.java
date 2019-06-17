@@ -144,36 +144,52 @@ public class TradePage extends BasePage {
 
 
     public TradePage assertDisplayedValueTrades(WebElement element, String expectedValue) throws IOException {
-        if (WaitUntilWebElementIsVisible(element)) {
 
-            String actualValue = element.getText();
-            System.out.println("Expected Value: " + expectedValue + ", Actual Value: " + actualValue);
-            System.out.print(System.lineSeparator());
-            Assert.assertEquals("Test failed. Actual value: " + actualValue + " doesn't match the expected value: " + expectedValue, expectedValue, actualValue);
+        try {
+            if (WaitUntilWebElementIsVisible(element)) {
 
-        }
+                String actualValue = element.getText();
+                System.out.println("Expected Value: " + expectedValue + ", Actual Value: " + actualValue);
+                System.out.print(System.lineSeparator());
+                Assert.assertEquals("Test failed. Actual value: " + actualValue + " doesn't match the expected value: " + expectedValue, expectedValue, actualValue);
+            }
+
+            } catch (Exception e) {
+                Assert.fail("Unable to to locate WebElement and read actual value, Exception: " + e.getMessage());
+
+            }
         return new TradePage();
 
     }
 
     public TradePage assertValuePopulatedTrades (WebElement element) throws IOException {
-        if (WaitUntilWebElementIsVisible(element)) {
+        try {
+            if (WaitUntilWebElementIsVisible(element)) {
 
-            String actualValue = element.getText();
-            System.out.println("Recorded trade data is successfully populated, Data value: " + actualValue);
-            System.out.print(System.lineSeparator());
-            Assert.assertFalse("Data for " + element + " is not populated", actualValue.isEmpty());
+                String actualValue = element.getText();
+                System.out.println("Recorded trade data is successfully populated, Data value: " + actualValue);
+                System.out.print(System.lineSeparator());
+                Assert.assertFalse("Data for " + element + " is not populated", actualValue.isEmpty());
+            }
+        } catch (Exception e) {
+            Assert.fail("Unable to to locate WebElement and read actual value, Exception: " + e.getMessage());
         }
-        return new TradePage();
 
-    }
+            return new TradePage();
+
+        }
+
 
     public TradePage assertNumberOfTradesRecorded (Integer numberOfTrades, String stock) throws IOException {
+        try {
+
         List<WebElement> rows = driver.findElements(By.xpath(tradePage.recentTradesTableRows));
         int count = rows.size();
         System.out.println("Expected number of recorded Trades  for " + stock + " is: " + numberOfTrades + ", Actual number of recorded Trades for " + stock + " is: " + count);
         Assert.assertTrue("Number of trade recorded (" + count + ") is different from number of trades made (" + numberOfTrades + ")", numberOfTrades.equals(count));
-
+        } catch (Exception e) {
+            Assert.fail("Unable to to locate WebElement and read actual value, Exception: " + e.getMessage());
+        }
         return new TradePage();
 
     }
