@@ -128,7 +128,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 3438977035,
+  "duration": 3500966827,
   "status": "passed"
 });
 formatter.background({
@@ -147,7 +147,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 583928930,
+  "duration": 945281179,
   "status": "passed"
 });
 formatter.scenario({
@@ -229,7 +229,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 583713623,
+  "duration": 462688300,
   "status": "passed"
 });
 formatter.match({
@@ -242,15 +242,15 @@ formatter.match({
   "location": "PERatioStepDef.i_see_the_P_E_Ratio_for_Stock_in_My_Stock_section_calculated(String)"
 });
 formatter.result({
-  "duration": 148290077,
+  "duration": 109901012,
   "status": "passed"
 });
 formatter.after({
-  "duration": 187701768,
+  "duration": 120263478,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2052149768,
+  "duration": 1889670017,
   "status": "passed"
 });
 formatter.background({
@@ -269,7 +269,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 523420061,
+  "duration": 435489903,
   "status": "passed"
 });
 formatter.scenario({
@@ -351,7 +351,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 663333080,
+  "duration": 442699601,
   "status": "passed"
 });
 formatter.match({
@@ -364,15 +364,15 @@ formatter.match({
   "location": "PERatioStepDef.i_see_the_P_E_Ratio_for_Stock_in_My_Stock_section_calculated(String)"
 });
 formatter.result({
-  "duration": 158273017,
+  "duration": 180307522,
   "status": "passed"
 });
 formatter.after({
-  "duration": 144300463,
+  "duration": 140343276,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1883374933,
+  "duration": 1812540536,
   "status": "passed"
 });
 formatter.background({
@@ -391,7 +391,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 473038358,
+  "duration": 451000873,
   "status": "passed"
 });
 formatter.scenario({
@@ -473,7 +473,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 496302327,
+  "duration": 436002533,
   "status": "passed"
 });
 formatter.match({
@@ -486,15 +486,15 @@ formatter.match({
   "location": "PERatioStepDef.i_see_the_P_E_Ratio_for_Stock_in_My_Stock_section_calculated(String)"
 });
 formatter.result({
-  "duration": 136389584,
+  "duration": 121563952,
   "status": "passed"
 });
 formatter.after({
-  "duration": 234146856,
+  "duration": 111140044,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1735680186,
+  "duration": 1697811339,
   "status": "passed"
 });
 formatter.background({
@@ -513,7 +513,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 439763557,
+  "duration": 445194599,
   "status": "passed"
 });
 formatter.scenario({
@@ -595,7 +595,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 439186933,
+  "duration": 399057415,
   "status": "passed"
 });
 formatter.match({
@@ -608,15 +608,15 @@ formatter.match({
   "location": "PERatioStepDef.i_see_the_P_E_Ratio_for_Stock_in_My_Stock_section_calculated(String)"
 });
 formatter.result({
-  "duration": 133274474,
+  "duration": 98512192,
   "status": "passed"
 });
 formatter.after({
-  "duration": 181782618,
+  "duration": 118526903,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1813890967,
+  "duration": 1720247373,
   "status": "passed"
 });
 formatter.background({
@@ -635,7 +635,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 481401268,
+  "duration": 454492437,
   "status": "passed"
 });
 formatter.scenario({
@@ -717,7 +717,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 494042105,
+  "duration": 454951128,
   "status": "passed"
 });
 formatter.match({
@@ -730,15 +730,15 @@ formatter.match({
   "location": "PERatioStepDef.i_see_the_P_E_Ratio_for_Stock_in_My_Stock_section_calculated(String)"
 });
 formatter.result({
-  "duration": 133617985,
+  "duration": 113631917,
   "status": "passed"
 });
 formatter.after({
-  "duration": 169794759,
+  "duration": 170091590,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1842189694,
+  "duration": 1601661167,
   "status": "passed"
 });
 formatter.background({
@@ -757,7 +757,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 448013224,
+  "duration": 453088356,
   "status": "passed"
 });
 formatter.scenario({
@@ -811,18 +811,18 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 612532304,
+  "duration": 697551260,
   "status": "passed"
 });
 formatter.match({
   "location": "PERatioStepDef.i_see_the_P_E_Ratio_for_Stock_in_My_Stock_section_calculated_based_on_last_trade_price()"
 });
 formatter.result({
-  "duration": 99473777,
+  "duration": 125489786,
   "status": "passed"
 });
 formatter.after({
-  "duration": 221849194,
+  "duration": 116709100,
   "status": "passed"
 });
 formatter.uri("features/dividendYield.feature");
@@ -943,7 +943,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 1557046226,
+  "duration": 1628811743,
   "status": "passed"
 });
 formatter.background({
@@ -962,7 +962,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 446235605,
+  "duration": 434118221,
   "status": "passed"
 });
 formatter.scenario({
@@ -1032,7 +1032,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 376008733,
+  "duration": 364309249,
   "status": "passed"
 });
 formatter.match({
@@ -1045,15 +1045,15 @@ formatter.match({
   "location": "DividendYieldStepDef.i_see_Dividend_Yield_for_Stock_in_My_Stock_section_based_on_stock_type(String)"
 });
 formatter.result({
-  "duration": 106036797,
+  "duration": 104617058,
   "status": "passed"
 });
 formatter.after({
-  "duration": 155019517,
+  "duration": 113940821,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1621228033,
+  "duration": 1672832259,
   "status": "passed"
 });
 formatter.background({
@@ -1072,7 +1072,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 430117736,
+  "duration": 446089207,
   "status": "passed"
 });
 formatter.scenario({
@@ -1142,7 +1142,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 361318406,
+  "duration": 363718481,
   "status": "passed"
 });
 formatter.match({
@@ -1155,15 +1155,15 @@ formatter.match({
   "location": "DividendYieldStepDef.i_see_Dividend_Yield_for_Stock_in_My_Stock_section_based_on_stock_type(String)"
 });
 formatter.result({
-  "duration": 99751692,
+  "duration": 98696077,
   "status": "passed"
 });
 formatter.after({
-  "duration": 114194431,
+  "duration": 150979020,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1618907646,
+  "duration": 1567480358,
   "status": "passed"
 });
 formatter.background({
@@ -1182,7 +1182,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 442373892,
+  "duration": 446837868,
   "status": "passed"
 });
 formatter.scenario({
@@ -1252,7 +1252,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 368897685,
+  "duration": 359391359,
   "status": "passed"
 });
 formatter.match({
@@ -1265,15 +1265,15 @@ formatter.match({
   "location": "DividendYieldStepDef.i_see_Dividend_Yield_for_Stock_in_My_Stock_section_based_on_stock_type(String)"
 });
 formatter.result({
-  "duration": 99126540,
+  "duration": 99010819,
   "status": "passed"
 });
 formatter.after({
-  "duration": 197817342,
+  "duration": 111157796,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1600913524,
+  "duration": 1525857408,
   "status": "passed"
 });
 formatter.background({
@@ -1292,7 +1292,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 438330986,
+  "duration": 433260127,
   "status": "passed"
 });
 formatter.scenario({
@@ -1362,7 +1362,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 368416168,
+  "duration": 353715156,
   "status": "passed"
 });
 formatter.match({
@@ -1375,17 +1375,17 @@ formatter.match({
   "location": "DividendYieldStepDef.i_see_Dividend_Yield_for_Stock_in_My_Stock_section_based_on_stock_type(String)"
 });
 formatter.result({
-  "duration": 86370318,
+  "duration": 82737481,
   "error_message": "org.junit.ComparisonFailure: Test failed. Actual value: 1.3333333333333333 doesn\u0027t match the expected value: 0.0133333333333333 expected:\u003c[0.01]33333333333333\u003e but was:\u003c[1.33]33333333333333\u003e\n\tat org.junit.Assert.assertEquals(Assert.java:115)\n\tat pageObjects.StockPage.lambda$assertDisplayedValue$0(StockPage.java:37)\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1540)\n\tat pageObjects.StockPage.assertDisplayedValue(StockPage.java:29)\n\tat stepDefs.DividendYieldStepDef.i_see_Dividend_Yield_for_Stock_in_My_Stock_section_based_on_stock_type(DividendYieldStepDef.java:28)\n\tat ✽.Then I see Dividend Yield for GIN Stock in My Stock section based on stock type(features/dividendYield.feature:11)\n",
   "status": "failed"
 });
 formatter.embedding("image/png", "embedded0.png");
 formatter.after({
-  "duration": 867726444,
+  "duration": 829709390,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2021508543,
+  "duration": 1890560479,
   "status": "passed"
 });
 formatter.background({
@@ -1404,7 +1404,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 442733652,
+  "duration": 439950258,
   "status": "passed"
 });
 formatter.scenario({
@@ -1474,7 +1474,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 393493609,
+  "duration": 363643998,
   "status": "passed"
 });
 formatter.match({
@@ -1487,15 +1487,15 @@ formatter.match({
   "location": "DividendYieldStepDef.i_see_Dividend_Yield_for_Stock_in_My_Stock_section_based_on_stock_type(String)"
 });
 formatter.result({
-  "duration": 100006353,
+  "duration": 98425878,
   "status": "passed"
 });
 formatter.after({
-  "duration": 119632129,
+  "duration": 110726323,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1618368376,
+  "duration": 1608665523,
   "status": "passed"
 });
 formatter.background({
@@ -1514,7 +1514,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 442652132,
+  "duration": 596931319,
   "status": "passed"
 });
 formatter.scenario({
@@ -1568,18 +1568,18 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 593717502,
+  "duration": 580304423,
   "status": "passed"
 });
 formatter.match({
   "location": "DividendYieldStepDef.i_see_Dividend_Yield_for_Stock_in_My_Stock_section_based_on_last_trade_price()"
 });
 formatter.result({
-  "duration": 92422204,
+  "duration": 96298536,
   "status": "passed"
 });
 formatter.after({
-  "duration": 110750427,
+  "duration": 161204820,
   "status": "passed"
 });
 formatter.uri("features/geometricMean.feature");
@@ -1773,7 +1773,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 1673514529,
+  "duration": 1576120803,
   "status": "passed"
 });
 formatter.scenario({
@@ -1906,7 +1906,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 593158319,
+  "duration": 447842252,
   "status": "passed"
 });
 formatter.match({
@@ -1923,7 +1923,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 399271546,
+  "duration": 376547946,
   "status": "passed"
 });
 formatter.match({
@@ -1936,15 +1936,15 @@ formatter.match({
   "location": "GeometricMeanStepDef.i_see_calculated_Geometric_Mean_for_all_prices_for_Stock_in_My_Stock_section(String)"
 });
 formatter.result({
-  "duration": 121825151,
+  "duration": 105297464,
   "status": "passed"
 });
 formatter.after({
-  "duration": 168533515,
+  "duration": 145486041,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1676066103,
+  "duration": 1568760994,
   "status": "passed"
 });
 formatter.scenario({
@@ -2077,7 +2077,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 463315574,
+  "duration": 448247728,
   "status": "passed"
 });
 formatter.match({
@@ -2094,7 +2094,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 539036622,
+  "duration": 564311127,
   "status": "passed"
 });
 formatter.match({
@@ -2107,15 +2107,15 @@ formatter.match({
   "location": "GeometricMeanStepDef.i_see_calculated_Geometric_Mean_for_all_prices_for_Stock_in_My_Stock_section(String)"
 });
 formatter.result({
-  "duration": 95650351,
+  "duration": 101017690,
   "status": "passed"
 });
 formatter.after({
-  "duration": 115759559,
+  "duration": 107460839,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1611241980,
+  "duration": 1617974755,
   "status": "passed"
 });
 formatter.scenario({
@@ -2248,7 +2248,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 441953169,
+  "duration": 439384543,
   "status": "passed"
 });
 formatter.match({
@@ -2265,7 +2265,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 760076801,
+  "duration": 752942869,
   "status": "passed"
 });
 formatter.match({
@@ -2278,15 +2278,15 @@ formatter.match({
   "location": "GeometricMeanStepDef.i_see_calculated_Geometric_Mean_for_all_prices_for_Stock_in_My_Stock_section(String)"
 });
 formatter.result({
-  "duration": 101069212,
+  "duration": 100559923,
   "status": "passed"
 });
 formatter.after({
-  "duration": 117007728,
+  "duration": 114361967,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1689125611,
+  "duration": 1570906727,
   "status": "passed"
 });
 formatter.scenario({
@@ -2419,7 +2419,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 439116836,
+  "duration": 445741685,
   "status": "passed"
 });
 formatter.match({
@@ -2436,7 +2436,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 1111108960,
+  "duration": 1152876950,
   "status": "passed"
 });
 formatter.match({
@@ -2449,15 +2449,15 @@ formatter.match({
   "location": "GeometricMeanStepDef.i_see_calculated_Geometric_Mean_for_all_prices_for_Stock_in_My_Stock_section(String)"
 });
 formatter.result({
-  "duration": 91422444,
+  "duration": 103215370,
   "status": "passed"
 });
 formatter.after({
-  "duration": 114459162,
+  "duration": 113274955,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1674739715,
+  "duration": 1524741907,
   "status": "passed"
 });
 formatter.scenario({
@@ -2590,7 +2590,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 444237079,
+  "duration": 434903270,
   "status": "passed"
 });
 formatter.match({
@@ -2607,7 +2607,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 2048819957,
+  "duration": 2051236138,
   "status": "passed"
 });
 formatter.match({
@@ -2620,11 +2620,11 @@ formatter.match({
   "location": "GeometricMeanStepDef.i_see_calculated_Geometric_Mean_for_all_prices_for_Stock_in_My_Stock_section(String)"
 });
 formatter.result({
-  "duration": 92090749,
+  "duration": 92976441,
   "status": "passed"
 });
 formatter.after({
-  "duration": 160266970,
+  "duration": 113595228,
   "status": "passed"
 });
 formatter.uri("features/recordTrade.feature");
@@ -2652,7 +2652,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 1582429366,
+  "duration": 1535040018,
   "status": "passed"
 });
 formatter.background({
@@ -2671,7 +2671,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 434622186,
+  "duration": 431936128,
   "status": "passed"
 });
 formatter.scenario({
@@ -2722,18 +2722,18 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 362863260,
+  "duration": 346435818,
   "status": "passed"
 });
 formatter.match({
   "location": "RecordTradeStepDef.trade_is_recorded_in_recent_trades_section()"
 });
 formatter.result({
-  "duration": 36083670,
+  "duration": 30523789,
   "status": "passed"
 });
 formatter.after({
-  "duration": 162545932,
+  "duration": 107614924,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2803,7 +2803,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 1588086524,
+  "duration": 1582412310,
   "status": "passed"
 });
 formatter.background({
@@ -2822,7 +2822,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 449919643,
+  "duration": 438194457,
   "status": "passed"
 });
 formatter.scenario({
@@ -2874,14 +2874,14 @@ formatter.match({
   "location": "RecordTradeStepDef.i_attempt_to_made_a_trade_with_Stock_missing_input(String)"
 });
 formatter.result({
-  "duration": 252206632,
+  "duration": 242988297,
   "status": "passed"
 });
 formatter.match({
   "location": "RecordTradeStepDef.i_click_on_Submit_button()"
 });
 formatter.result({
-  "duration": 49029726,
+  "duration": 49635933,
   "status": "passed"
 });
 formatter.match({
@@ -2894,15 +2894,15 @@ formatter.match({
   "location": "RecordTradeStepDef.trade_is_not_recorded(String)"
 });
 formatter.result({
-  "duration": 25054808,
+  "duration": 27921717,
   "status": "passed"
 });
 formatter.after({
-  "duration": 185303442,
+  "duration": 110332493,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1596220931,
+  "duration": 1541685294,
   "status": "passed"
 });
 formatter.background({
@@ -2921,7 +2921,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 445100221,
+  "duration": 438527790,
   "status": "passed"
 });
 formatter.scenario({
@@ -2973,14 +2973,14 @@ formatter.match({
   "location": "RecordTradeStepDef.i_attempt_to_made_a_trade_with_Stock_missing_input(String)"
 });
 formatter.result({
-  "duration": 280720771,
+  "duration": 262385674,
   "status": "passed"
 });
 formatter.match({
   "location": "RecordTradeStepDef.i_click_on_Submit_button()"
 });
 formatter.result({
-  "duration": 59580356,
+  "duration": 49029151,
   "status": "passed"
 });
 formatter.match({
@@ -2993,15 +2993,15 @@ formatter.match({
   "location": "RecordTradeStepDef.trade_is_not_recorded(String)"
 });
 formatter.result({
-  "duration": 25533156,
+  "duration": 26417575,
   "status": "passed"
 });
 formatter.after({
-  "duration": 127984354,
+  "duration": 110565299,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1668700855,
+  "duration": 1583228317,
   "status": "passed"
 });
 formatter.background({
@@ -3020,7 +3020,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 439806208,
+  "duration": 445509823,
   "status": "passed"
 });
 formatter.scenario({
@@ -3072,14 +3072,14 @@ formatter.match({
   "location": "RecordTradeStepDef.i_attempt_to_made_a_trade_with_Stock_missing_input(String)"
 });
 formatter.result({
-  "duration": 268893530,
+  "duration": 257592380,
   "status": "passed"
 });
 formatter.match({
   "location": "RecordTradeStepDef.i_click_on_Submit_button()"
 });
 formatter.result({
-  "duration": 63660439,
+  "duration": 67336521,
   "status": "passed"
 });
 formatter.match({
@@ -3092,11 +3092,11 @@ formatter.match({
   "location": "RecordTradeStepDef.trade_is_not_recorded(String)"
 });
 formatter.result({
-  "duration": 25580292,
+  "duration": 30593994,
   "status": "passed"
 });
 formatter.after({
-  "duration": 108842497,
+  "duration": 142235620,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3175,7 +3175,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 1686557293,
+  "duration": 1583448668,
   "status": "passed"
 });
 formatter.background({
@@ -3194,7 +3194,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 431165160,
+  "duration": 431369909,
   "status": "passed"
 });
 formatter.scenario({
@@ -3245,7 +3245,7 @@ formatter.match({
   "location": "RecordTradeStepDef.i_enter_all_required_inputs_to_make_a_trade()"
 });
 formatter.result({
-  "duration": 318235918,
+  "duration": 290929308,
   "status": "passed"
 });
 formatter.match({
@@ -3258,14 +3258,14 @@ formatter.match({
   "location": "RecordTradeStepDef.i_then_delete_Stock_input(String)"
 });
 formatter.result({
-  "duration": 87745667,
+  "duration": 89877016,
   "status": "passed"
 });
 formatter.match({
   "location": "RecordTradeStepDef.i_click_on_Submit_button()"
 });
 formatter.result({
-  "duration": 72180406,
+  "duration": 73540807,
   "status": "passed"
 });
 formatter.match({
@@ -3278,17 +3278,17 @@ formatter.match({
   "location": "RecordTradeStepDef.trade_is_not_recorded(String)"
 });
 formatter.result({
-  "duration": 27647073,
-  "error_message": "org.junit.ComparisonFailure: Trade with missing Stock input was recorded without the required data expected:\u003c[You currently have no entries to display.]\u003e but was:\u003c[17/06/2019, 15:14:57]\u003e\n\tat org.junit.Assert.assertEquals(Assert.java:115)\n\tat pageObjects.TradePage.tradeRecordExists(TradePage.java:200)\n\tat stepDefs.RecordTradeStepDef.trade_is_not_recorded(RecordTradeStepDef.java:145)\n\tat ✽.Then Trade with missing Stock input is not recorded(features/recordTrade.feature:33)\n",
+  "duration": 27783569,
+  "error_message": "org.junit.ComparisonFailure: Trade with missing Stock input was recorded without the required data expected:\u003c[You currently have no entries to display.]\u003e but was:\u003c[18/06/2019, 10:11:30]\u003e\n\tat org.junit.Assert.assertEquals(Assert.java:115)\n\tat pageObjects.TradePage.tradeRecordExists(TradePage.java:200)\n\tat stepDefs.RecordTradeStepDef.trade_is_not_recorded(RecordTradeStepDef.java:145)\n\tat ✽.Then Trade with missing Stock input is not recorded(features/recordTrade.feature:33)\n",
   "status": "failed"
 });
 formatter.embedding("image/png", "embedded1.png");
 formatter.after({
-  "duration": 811383600,
+  "duration": 801608350,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1985704218,
+  "duration": 2086975770,
   "status": "passed"
 });
 formatter.background({
@@ -3307,7 +3307,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 443796077,
+  "duration": 426981980,
   "status": "passed"
 });
 formatter.scenario({
@@ -3358,7 +3358,7 @@ formatter.match({
   "location": "RecordTradeStepDef.i_enter_all_required_inputs_to_make_a_trade()"
 });
 formatter.result({
-  "duration": 333193023,
+  "duration": 335728302,
   "status": "passed"
 });
 formatter.match({
@@ -3371,14 +3371,14 @@ formatter.match({
   "location": "RecordTradeStepDef.i_then_delete_Stock_input(String)"
 });
 formatter.result({
-  "duration": 38272267,
+  "duration": 33560246,
   "status": "passed"
 });
 formatter.match({
   "location": "RecordTradeStepDef.i_click_on_Submit_button()"
 });
 formatter.result({
-  "duration": 101543106,
+  "duration": 77369173,
   "status": "passed"
 });
 formatter.match({
@@ -3391,17 +3391,17 @@ formatter.match({
   "location": "RecordTradeStepDef.trade_is_not_recorded(String)"
 });
 formatter.result({
-  "duration": 35557290,
-  "error_message": "org.junit.ComparisonFailure: Trade with missing Price input was recorded without the required data expected:\u003c[You currently have no entries to display.]\u003e but was:\u003c[17/06/2019, 15:15:01]\u003e\n\tat org.junit.Assert.assertEquals(Assert.java:115)\n\tat pageObjects.TradePage.tradeRecordExists(TradePage.java:200)\n\tat stepDefs.RecordTradeStepDef.trade_is_not_recorded(RecordTradeStepDef.java:149)\n\tat ✽.Then Trade with missing Price input is not recorded(features/recordTrade.feature:33)\n",
+  "duration": 30899536,
+  "error_message": "org.junit.ComparisonFailure: Trade with missing Price input was recorded without the required data expected:\u003c[You currently have no entries to display.]\u003e but was:\u003c[18/06/2019, 10:11:34]\u003e\n\tat org.junit.Assert.assertEquals(Assert.java:115)\n\tat pageObjects.TradePage.tradeRecordExists(TradePage.java:200)\n\tat stepDefs.RecordTradeStepDef.trade_is_not_recorded(RecordTradeStepDef.java:149)\n\tat ✽.Then Trade with missing Price input is not recorded(features/recordTrade.feature:33)\n",
   "status": "failed"
 });
 formatter.embedding("image/png", "embedded2.png");
 formatter.after({
-  "duration": 840600831,
+  "duration": 825955885,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2008962880,
+  "duration": 1983082575,
   "status": "passed"
 });
 formatter.background({
@@ -3420,7 +3420,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 458737436,
+  "duration": 503250196,
   "status": "passed"
 });
 formatter.scenario({
@@ -3471,7 +3471,7 @@ formatter.match({
   "location": "RecordTradeStepDef.i_enter_all_required_inputs_to_make_a_trade()"
 });
 formatter.result({
-  "duration": 290593554,
+  "duration": 275796883,
   "status": "passed"
 });
 formatter.match({
@@ -3484,14 +3484,14 @@ formatter.match({
   "location": "RecordTradeStepDef.i_then_delete_Stock_input(String)"
 });
 formatter.result({
-  "duration": 30740998,
+  "duration": 32576439,
   "status": "passed"
 });
 formatter.match({
   "location": "RecordTradeStepDef.i_click_on_Submit_button()"
 });
 formatter.result({
-  "duration": 90533114,
+  "duration": 74919362,
   "status": "passed"
 });
 formatter.match({
@@ -3504,13 +3504,13 @@ formatter.match({
   "location": "RecordTradeStepDef.trade_is_not_recorded(String)"
 });
 formatter.result({
-  "duration": 35346880,
-  "error_message": "org.junit.ComparisonFailure: Trade with missing Quantity input was recorded without the required data expected:\u003c[You currently have no entries to display.]\u003e but was:\u003c[17/06/2019, 15:15:05]\u003e\n\tat org.junit.Assert.assertEquals(Assert.java:115)\n\tat pageObjects.TradePage.tradeRecordExists(TradePage.java:200)\n\tat stepDefs.RecordTradeStepDef.trade_is_not_recorded(RecordTradeStepDef.java:153)\n\tat ✽.Then Trade with missing Quantity input is not recorded(features/recordTrade.feature:33)\n",
+  "duration": 28520661,
+  "error_message": "org.junit.ComparisonFailure: Trade with missing Quantity input was recorded without the required data expected:\u003c[You currently have no entries to display.]\u003e but was:\u003c[18/06/2019, 10:11:37]\u003e\n\tat org.junit.Assert.assertEquals(Assert.java:115)\n\tat pageObjects.TradePage.tradeRecordExists(TradePage.java:200)\n\tat stepDefs.RecordTradeStepDef.trade_is_not_recorded(RecordTradeStepDef.java:153)\n\tat ✽.Then Trade with missing Quantity input is not recorded(features/recordTrade.feature:33)\n",
   "status": "failed"
 });
 formatter.embedding("image/png", "embedded3.png");
 formatter.after({
-  "duration": 879087315,
+  "duration": 779737051,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3613,7 +3613,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 1932386815,
+  "duration": 1937236864,
   "status": "passed"
 });
 formatter.background({
@@ -3632,7 +3632,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 449668674,
+  "duration": 447670134,
   "status": "passed"
 });
 formatter.scenario({
@@ -3690,7 +3690,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 358104981,
+  "duration": 354446024,
   "status": "passed"
 });
 formatter.match({
@@ -3703,15 +3703,15 @@ formatter.match({
   "location": "RecordTradeStepDef.the_trade_record_has_the_following_headers(String)"
 });
 formatter.result({
-  "duration": 68106069,
+  "duration": 96717877,
   "status": "passed"
 });
 formatter.after({
-  "duration": 157780085,
+  "duration": 121100002,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1658335919,
+  "duration": 1731172863,
   "status": "passed"
 });
 formatter.background({
@@ -3730,7 +3730,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 429926665,
+  "duration": 458242296,
   "status": "passed"
 });
 formatter.scenario({
@@ -3788,7 +3788,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 364199543,
+  "duration": 358157217,
   "status": "passed"
 });
 formatter.match({
@@ -3801,15 +3801,15 @@ formatter.match({
   "location": "RecordTradeStepDef.the_trade_record_has_the_following_headers(String)"
 });
 formatter.result({
-  "duration": 64636895,
+  "duration": 63379577,
   "status": "passed"
 });
 formatter.after({
-  "duration": 117608051,
+  "duration": 128242766,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1701900955,
+  "duration": 1657844730,
   "status": "passed"
 });
 formatter.background({
@@ -3828,7 +3828,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 434329861,
+  "duration": 429591506,
   "status": "passed"
 });
 formatter.scenario({
@@ -3886,7 +3886,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 363305425,
+  "duration": 365664764,
   "status": "passed"
 });
 formatter.match({
@@ -3899,15 +3899,15 @@ formatter.match({
   "location": "RecordTradeStepDef.the_trade_record_has_the_following_headers(String)"
 });
 formatter.result({
-  "duration": 70228267,
+  "duration": 66139203,
   "status": "passed"
 });
 formatter.after({
-  "duration": 124190112,
+  "duration": 108782355,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1626569543,
+  "duration": 1576779852,
   "status": "passed"
 });
 formatter.background({
@@ -3926,7 +3926,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 438161829,
+  "duration": 447609050,
   "status": "passed"
 });
 formatter.scenario({
@@ -3984,7 +3984,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 368676577,
+  "duration": 357088199,
   "status": "passed"
 });
 formatter.match({
@@ -3997,15 +3997,15 @@ formatter.match({
   "location": "RecordTradeStepDef.the_trade_record_has_the_following_headers(String)"
 });
 formatter.result({
-  "duration": 72105825,
+  "duration": 63534549,
   "status": "passed"
 });
 formatter.after({
-  "duration": 114892644,
+  "duration": 107597229,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1702318319,
+  "duration": 1635224361,
   "status": "passed"
 });
 formatter.background({
@@ -4024,7 +4024,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 435106868,
+  "duration": 435438024,
   "status": "passed"
 });
 formatter.scenario({
@@ -4082,7 +4082,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 353411778,
+  "duration": 355810668,
   "status": "passed"
 });
 formatter.match({
@@ -4095,13 +4095,13 @@ formatter.match({
   "location": "RecordTradeStepDef.the_trade_record_has_the_following_headers(String)"
 });
 formatter.result({
-  "duration": 5199630723,
+  "duration": 5208601972,
   "error_message": "java.lang.AssertionError: WebElement is NOT visible, Exception: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator \u0027By.xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/table[1]/thead[1]/tr[1]/td[5]\u0027 (tried for 5 second(s) with 500 milliseconds interval)\n\tat org.junit.Assert.fail(Assert.java:88)\n\tat pageObjects.BasePage.WaitUntilWebElementIsVisible(BasePage.java:229)\n\tat pageObjects.TradePage.assertDisplayedValueTrades(TradePage.java:149)\n\tat stepDefs.RecordTradeStepDef.the_trade_record_has_the_following_headers(RecordTradeStepDef.java:38)\n\tat ✽.Then The trade record has Buy or Sell header(features/recordTrade.feature:48)\n",
   "status": "failed"
 });
 formatter.embedding("image/png", "embedded4.png");
 formatter.after({
-  "duration": 831744752,
+  "duration": 787365589,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -4194,7 +4194,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 2131661189,
+  "duration": 1916692025,
   "status": "passed"
 });
 formatter.background({
@@ -4213,7 +4213,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 462733996,
+  "duration": 444755686,
   "status": "passed"
 });
 formatter.scenario({
@@ -4271,7 +4271,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 409743268,
+  "duration": 378814891,
   "status": "passed"
 });
 formatter.match({
@@ -4284,15 +4284,15 @@ formatter.match({
   "location": "RecordTradeStepDef.the_trade_records_has_trade_data_populated_in_fields(String)"
 });
 formatter.result({
-  "duration": 74597406,
+  "duration": 76132871,
   "status": "passed"
 });
 formatter.after({
-  "duration": 155545459,
+  "duration": 145131511,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1758234150,
+  "duration": 1620927718,
   "status": "passed"
 });
 formatter.background({
@@ -4311,7 +4311,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 443299931,
+  "duration": 432253173,
   "status": "passed"
 });
 formatter.scenario({
@@ -4369,7 +4369,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 384744279,
+  "duration": 365286740,
   "status": "passed"
 });
 formatter.match({
@@ -4382,15 +4382,15 @@ formatter.match({
   "location": "RecordTradeStepDef.the_trade_records_has_trade_data_populated_in_fields(String)"
 });
 formatter.result({
-  "duration": 73705198,
+  "duration": 81191367,
   "status": "passed"
 });
 formatter.after({
-  "duration": 155008618,
+  "duration": 148750354,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1586177415,
+  "duration": 1511134905,
   "status": "passed"
 });
 formatter.background({
@@ -4409,7 +4409,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 445628386,
+  "duration": 449877813,
   "status": "passed"
 });
 formatter.scenario({
@@ -4467,7 +4467,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 432423141,
+  "duration": 358510160,
   "status": "passed"
 });
 formatter.match({
@@ -4480,15 +4480,15 @@ formatter.match({
   "location": "RecordTradeStepDef.the_trade_records_has_trade_data_populated_in_fields(String)"
 });
 formatter.result({
-  "duration": 80894687,
+  "duration": 74801581,
   "status": "passed"
 });
 formatter.after({
-  "duration": 157026434,
+  "duration": 117259010,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1712163528,
+  "duration": 1623500661,
   "status": "passed"
 });
 formatter.background({
@@ -4507,7 +4507,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 440273787,
+  "duration": 449382314,
   "status": "passed"
 });
 formatter.scenario({
@@ -4565,7 +4565,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 427938098,
+  "duration": 382968217,
   "status": "passed"
 });
 formatter.match({
@@ -4578,15 +4578,15 @@ formatter.match({
   "location": "RecordTradeStepDef.the_trade_records_has_trade_data_populated_in_fields(String)"
 });
 formatter.result({
-  "duration": 89723767,
+  "duration": 81557898,
   "status": "passed"
 });
 formatter.after({
-  "duration": 149765524,
+  "duration": 116509534,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1683017653,
+  "duration": 1629612921,
   "status": "passed"
 });
 formatter.background({
@@ -4605,7 +4605,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 438692013,
+  "duration": 458458909,
   "status": "passed"
 });
 formatter.scenario({
@@ -4663,7 +4663,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_with_the_following_data(DataTable)"
 });
 formatter.result({
-  "duration": 352350481,
+  "duration": 447502813,
   "status": "passed"
 });
 formatter.match({
@@ -4676,13 +4676,13 @@ formatter.match({
   "location": "RecordTradeStepDef.the_trade_records_has_trade_data_populated_in_fields(String)"
 });
 formatter.result({
-  "duration": 5155875508,
+  "duration": 5185709735,
   "error_message": "java.lang.AssertionError: WebElement is NOT visible, Exception: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator \u0027By.xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[5]\u0027 (tried for 5 second(s) with 500 milliseconds interval)\n\tat org.junit.Assert.fail(Assert.java:88)\n\tat pageObjects.BasePage.WaitUntilWebElementIsVisible(BasePage.java:229)\n\tat pageObjects.TradePage.assertValuePopulatedTrades(TradePage.java:167)\n\tat stepDefs.RecordTradeStepDef.the_trade_records_has_trade_data_populated_in_fields(RecordTradeStepDef.java:67)\n\tat ✽.Then The trade records have trade data populated in Buy or Sell fields(features/recordTrade.feature:62)\n",
   "status": "failed"
 });
 formatter.embedding("image/png", "embedded5.png");
 formatter.after({
-  "duration": 844653383,
+  "duration": 776890468,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -4921,7 +4921,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 2051131653,
+  "duration": 1960473347,
   "status": "passed"
 });
 formatter.background({
@@ -4940,7 +4940,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 430025191,
+  "duration": 439591221,
   "status": "passed"
 });
 formatter.scenario({
@@ -5163,7 +5163,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 382846024,
+  "duration": 345397043,
   "status": "passed"
 });
 formatter.match({
@@ -5180,15 +5180,15 @@ formatter.match({
   "location": "RecordTradeStepDef.trades_for_Stock_are_successfully_recorded_in_Recent_Trades_section(Integer,String)"
 });
 formatter.result({
-  "duration": 18239304,
+  "duration": 14571958,
   "status": "passed"
 });
 formatter.after({
-  "duration": 169612715,
+  "duration": 144654191,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1682953656,
+  "duration": 1531538354,
   "status": "passed"
 });
 formatter.background({
@@ -5207,7 +5207,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 444498352,
+  "duration": 436808171,
   "status": "passed"
 });
 formatter.scenario({
@@ -5430,7 +5430,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 584742420,
+  "duration": 559789062,
   "status": "passed"
 });
 formatter.match({
@@ -5447,15 +5447,15 @@ formatter.match({
   "location": "RecordTradeStepDef.trades_for_Stock_are_successfully_recorded_in_Recent_Trades_section(Integer,String)"
 });
 formatter.result({
-  "duration": 18053288,
+  "duration": 12859514,
   "status": "passed"
 });
 formatter.after({
-  "duration": 126065948,
+  "duration": 119815917,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1666077787,
+  "duration": 1651397039,
   "status": "passed"
 });
 formatter.background({
@@ -5474,7 +5474,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 434578623,
+  "duration": 431568998,
   "status": "passed"
 });
 formatter.scenario({
@@ -5697,7 +5697,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 3944716401,
+  "duration": 3876427790,
   "status": "passed"
 });
 formatter.match({
@@ -5714,11 +5714,11 @@ formatter.match({
   "location": "RecordTradeStepDef.trades_for_Stock_are_successfully_recorded_in_Recent_Trades_section(Integer,String)"
 });
 formatter.result({
-  "duration": 15091846,
+  "duration": 15831596,
   "status": "passed"
 });
 formatter.after({
-  "duration": 148643150,
+  "duration": 114665617,
   "status": "passed"
 });
 formatter.uri("features/volumeWeightedStockPrice.feature");
@@ -5907,7 +5907,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 1766237799,
+  "duration": 1609988407,
   "status": "passed"
 });
 formatter.background({
@@ -5926,7 +5926,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 465730687,
+  "duration": 451556795,
   "status": "passed"
 });
 formatter.scenario({
@@ -6064,7 +6064,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 418374973,
+  "duration": 358720033,
   "status": "passed"
 });
 formatter.match({
@@ -6077,15 +6077,15 @@ formatter.match({
   "location": "VolumeWeightedStockPriceStepDef.i_see_calculated_Volume_Weighted_Stock_Price_for_stock_for_all_trades(String)"
 });
 formatter.result({
-  "duration": 104155749,
+  "duration": 98188342,
   "status": "passed"
 });
 formatter.after({
-  "duration": 110412049,
+  "duration": 108484722,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1630634259,
+  "duration": 1613178473,
   "status": "passed"
 });
 formatter.background({
@@ -6104,7 +6104,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 453975957,
+  "duration": 444478269,
   "status": "passed"
 });
 formatter.scenario({
@@ -6242,7 +6242,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 540323062,
+  "duration": 556892255,
   "status": "passed"
 });
 formatter.match({
@@ -6255,15 +6255,15 @@ formatter.match({
   "location": "VolumeWeightedStockPriceStepDef.i_see_calculated_Volume_Weighted_Stock_Price_for_stock_for_all_trades(String)"
 });
 formatter.result({
-  "duration": 92223123,
+  "duration": 95255596,
   "status": "passed"
 });
 formatter.after({
-  "duration": 119366878,
+  "duration": 117776182,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1685163146,
+  "duration": 1555483007,
   "status": "passed"
 });
 formatter.background({
@@ -6282,7 +6282,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 482614151,
+  "duration": 448797700,
   "status": "passed"
 });
 formatter.scenario({
@@ -6420,7 +6420,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 811792815,
+  "duration": 760656291,
   "status": "passed"
 });
 formatter.match({
@@ -6433,15 +6433,15 @@ formatter.match({
   "location": "VolumeWeightedStockPriceStepDef.i_see_calculated_Volume_Weighted_Stock_Price_for_stock_for_all_trades(String)"
 });
 formatter.result({
-  "duration": 88199853,
+  "duration": 93176693,
   "status": "passed"
 });
 formatter.after({
-  "duration": 127506319,
+  "duration": 123316121,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1690484869,
+  "duration": 1702808294,
   "status": "passed"
 });
 formatter.background({
@@ -6460,7 +6460,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 446682634,
+  "duration": 438204149,
   "status": "passed"
 });
 formatter.scenario({
@@ -6598,7 +6598,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 1137888895,
+  "duration": 1097259431,
   "status": "passed"
 });
 formatter.match({
@@ -6611,15 +6611,15 @@ formatter.match({
   "location": "VolumeWeightedStockPriceStepDef.i_see_calculated_Volume_Weighted_Stock_Price_for_stock_for_all_trades(String)"
 });
 formatter.result({
-  "duration": 90169453,
+  "duration": 89187563,
   "status": "passed"
 });
 formatter.after({
-  "duration": 114888212,
+  "duration": 109735820,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1677818757,
+  "duration": 1589384105,
   "status": "passed"
 });
 formatter.background({
@@ -6638,7 +6638,7 @@ formatter.match({
   "location": "SharedStepDef.i_am_on_Simple_Stock_page()"
 });
 formatter.result({
-  "duration": 455039110,
+  "duration": 428008647,
   "status": "passed"
 });
 formatter.scenario({
@@ -6776,7 +6776,7 @@ formatter.match({
   "location": "SharedStepDef.i_made_trades_for_stock_with_the_following_data(Integer,String,DataTable)"
 });
 formatter.result({
-  "duration": 2040456839,
+  "duration": 2053380138,
   "status": "passed"
 });
 formatter.match({
@@ -6789,11 +6789,11 @@ formatter.match({
   "location": "VolumeWeightedStockPriceStepDef.i_see_calculated_Volume_Weighted_Stock_Price_for_stock_for_all_trades(String)"
 });
 formatter.result({
-  "duration": 93832032,
+  "duration": 95625145,
   "status": "passed"
 });
 formatter.after({
-  "duration": 168317171,
+  "duration": 121663846,
   "status": "passed"
 });
 });
